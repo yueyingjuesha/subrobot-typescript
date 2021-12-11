@@ -1,0 +1,27 @@
+{
+  "name": "subrobot",
+  "version": "1.0.0",
+  "description": "a robot that can translate english subittle from mkv file to chinese",
+  "main": "index.ts",
+  "dependencies": {
+    "baidu-translate-api": "^0.4.3",
+    "google-translate-api": "^2.3.0",
+    "mkv-subtitle-extractor": "^1.1.1",
+    "translate-api": "^0.3.18",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yueyingjuesha/subrobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yueyingjuesha/subrobot/issues"
+  },
+  "homepage": "https://github.com/yueyingjuesha/subrobot#readme"
+}
